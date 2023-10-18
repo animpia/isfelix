@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://artistwomaniya.in/` + encodeURI(path as string)
+					`https://e-relationshipsolutions.com/` + encodeURI(path as string)
 				}`,
 			},
 		};
